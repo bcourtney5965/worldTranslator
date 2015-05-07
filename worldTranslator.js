@@ -1,7 +1,7 @@
-var helloWorld = function(lang) {
+var helloWorld = function (lang) {
 	if (lang == "es") {
 		return "Hola, Mundo!";
-	} else if (lang == "de") {
+	} else if (lang == "fr") {
 		return "Bonjour tout le monde";
 	} else {
 		return "Hello, World";
